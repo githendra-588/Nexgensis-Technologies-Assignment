@@ -3,8 +3,8 @@
 A clean, responsive React application built using Vite, Tailwind CSS, and standard Fetch API architecture. The application connects to a hosted cloud mock database to execute full CRUD data management cleanly.
 
 ### 🔗 Project Deliverables
-- **Live Deployed URL:** [PASTE YOUR VERCEL LINK HERE]
-- **GitHub Repository:** [PASTE YOUR GITHUB REPO LINK HERE]
+- **Live Deployed URL:** https://nexgensis-technologies-assignment-5tbe8n2qn.vercel.app/
+- **GitHub Repository:** https://github.com/githendra-588/Nexgensis-Technologies-Assignment
 
 ---
 
@@ -29,5 +29,5 @@ A clean, responsive React application built using Vite, Tailwind CSS, and standa
 
 ### 1. Clone & Navigate
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK>
+git clone https://github.com/githendra-588/Nexgensis-Technologies-Assignment
 cd book-management-system
